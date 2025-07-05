@@ -9,7 +9,6 @@
     }
   },
   "require": {
-    "bower-asset/jqueryui-touch-punch": "dev-master",
     "npm-asset/dropzone": "~5",
     "npm-asset/blazy": "~1",
     "npm-asset/slick-carousel": "~1",
