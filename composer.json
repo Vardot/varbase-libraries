@@ -24,7 +24,7 @@
     "npm-asset/slick-carousel": "~1",
     "npm-asset/ace-builds": "~1",
     "npm-asset/swagger-ui-dist": "~3",
-    "npm-asset/ckeditor--ckeditor5-media-embed": "@stable",
+    "npm-asset/ckeditor--ckeditor5-media-embed": "~45",
     "npm-asset/aos": "~2",
     "npm-asset/jquery.fancytree": "~2"
   }
