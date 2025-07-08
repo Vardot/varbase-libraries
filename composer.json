@@ -1,39 +1,6 @@
 {
   "name": "vardot/varbase-libraries",
-  "description": "Varbase Libraries",
+  "description": "Varbase Libraries - NO Libraries",
   "license": "GPL-2.0-or-later",
-  "repositories": {
-    "assets": {
-      "type": "composer",
-      "url": "https://asset-packagist.org",
-      "only": [
-        "bower-asset/objectfitpolyfill",
-        "bower-asset/chartjs",
-        "bower-asset/c3",
-        "bower-asset/d3",
-        "npm-asset/masonry-layout",
-        "npm-asset/imagesloaded",
-        "npm-asset/dropzone",
-        "npm-asset/blazy",
-        "npm-asset/slick-carousel",
-        "npm-asset/ace-builds",
-        "npm-asset/swagger-ui-dist",
-        "npm-asset/aos"
-      ]
-    }
-  },
-  "require": {
-    "bower-asset/objectfitpolyfill": "~2",
-    "bower-asset/chartjs": "~4",
-    "bower-asset/c3": "0.7.*",
-    "bower-asset/d3": "~5",
-    "npm-asset/masonry-layout": "~4",
-    "npm-asset/imagesloaded": "~4",
-    "npm-asset/dropzone": "~5",
-    "npm-asset/blazy": "~1",
-    "npm-asset/slick-carousel": "~1",
-    "npm-asset/ace-builds": "~1",
-    "npm-asset/swagger-ui-dist": "~3",
-    "npm-asset/aos": "~2"
-  }
+  "require": {  }
 }
